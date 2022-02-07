@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CoreDataProject
 //
-//  Created by IBE on 07/02/2022.
+//  Created by naseem on 07/02/2022.
 //
 
 import SwiftUI
